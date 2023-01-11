@@ -21,7 +21,7 @@ const Intro4 = ({ sliderRef, blackStar }) => {
     />
     <br/><br/><br/>
               <h1>
-                <span className="color-font">Coming</span> soon
+                <span className="color-font">Coming</span> soon...
               </h1>
               
             </div>

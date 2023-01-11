@@ -23,6 +23,7 @@ const LoadingScreen = () => {
           <span>P</span>
           <span>A</span>
           <span>R</span>
+          <span>A</span>
           <span>L</span>
           <span>L</span>
           <span>A</span>
