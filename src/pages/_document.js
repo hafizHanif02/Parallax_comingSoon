@@ -14,7 +14,7 @@ class MyDocument extends Document {
         <Head>
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
 
-          <meta name="description" content="Not just another tech company" />
+          <meta name="description" content="Not just another Tech company!" />
           <meta name="author" content="" />
           <link rel="shortcut icon" href="/img/favicon.ico" />
           <link
